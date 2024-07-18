@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nahid-khatoon
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning . Diploma Computer science Engineer ing .
+- 🌱 I’m currently learning . Diploma ( Computer science Engineering ).
 - 💞️ I’m looking to collaborate on......
 
 <!---
